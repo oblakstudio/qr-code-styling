@@ -1,3 +1,16 @@
+# [1.1.0](https://github.com/oblakstudio/qr-code-styling/compare/v1.0.0...v1.1.0) (2021-12-31)
+
+
+### Bug Fixes
+
+* readded semantic-release ([dc6b543](https://github.com/oblakstudio/qr-code-styling/commit/dc6b543a872ab8541116e202579a727378419e89))
+* **build:** Fixed package name ([01ee666](https://github.com/oblakstudio/qr-code-styling/commit/01ee666521aabfa4ff066c692cc7d2e35cbd89cc))
+
+
+### Features
+
+* Updated from another repo ([436c034](https://github.com/oblakstudio/qr-code-styling/commit/436c034bcbcebc89becde20ca17d757c239859a0))
+
 # 1.0.0 (2021-12-31)
 
 
